@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico"/>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>青春川大</title>
+	<link rel="stylesheet" type="text/css" href="css/bootsnav.css">
+	<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="js/jquery.mCustomScrollbar.concat.min.js"></script> 
+	<script src="js/bootsnav.js"></script> 
+    <link href="http://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/jquery.mCustomScrollbar.css" />
+    <link rel="stylesheet" type="text/css" href="css/home.css">
+	<link rel="stylesheet" href="css/gonggao.css">
+	<link rel="stylesheet" href="css/nav.css">
+	<link rel="stylesheet" href="css/search.css">
+	<link rel="stylesheet" href="css/manager.css">
+	<script src="js/jquery.cookie.js" type="text/javascript"></script>
+<style>
+
+</style>
+</head>
+<body id="body" onload="play()">
+<div class="modal fade login" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal">&times;</button>
+		<h4 class="modal-title" id="myModalLabel" style="text-align:center;">登录</h4>
+	</div>
+    <div class="login-input-content">
+        <div class="login-input">
+            <label>用&nbsp;户&nbsp;&nbsp;名：</label>
+            <input type="text" placeholder="请输入用户名"  name="info[username]" id="username" class="list-input"/>
+        </div>
+        <div class="login-input">
+            <label>登录密码：</label>
+            <input type="password" placeholder="请输入登录密码" name="info[password]" id="password" class="list-input"/>
+        </div>
+    </div>
+    <div class="login-button"><a href="javascript:void(0);" id="login-button-submit" onclick="login()">登录会员</a></div>
+</div>
+
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">管理员功能</h4>
+            </div>
+            <div class="modal-body" style="height:130px;">
+				<div class="manager_botton manager_botton1" onclick="window.location.href='newArticle.html'">添加文章</div>
+				<div class="manager_botton manager_botton2" onclick="window.location.href='changeArticle.html'">修改文章</div>
+				<div class="manager_botton manager_botton3" onclick="window.location.href='deleteArticle.html'">删除文章</div>
+			</div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal -->
+</div>
+
+<div id="dowebok"  style="background-image:url(images/yinxing6.jpg);background-size:cover;">
+
+	                    <nav class="navbar navbar-default navbar-mobile bootsnav"  style="background: linear-gradient( #fbc215,#ffc000, #fbc215);min-height:2em;position:fixed;">
+	                        <div class="navbar-header">
+	                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+	                                <i class="fa fa-bars"></i>
+	                            </button>
+	                        </div>
+	                        <div class="collapse navbar-collapse" id="navbar-menu">
+	                            <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
+										<li><a href="index.html" id="shouye">首页</a></li>
+										<li><a href="xuedaihui.html">第十三次学代会专栏</a></li>
+										<li class="dropdown">
+											<a href="tuanweijieshao.html" class="dropdown-toggle" data-toggle="dropdown">团委介绍</a>
+											<ul class="dropdown-menu">
+												<li><a href="tuanweijieshao.html?ini=1">川大团委</a></li>
+												<li><a href="tuanweijieshao.html?ini=2">团委成员</a></li>
+												<li><a href="tuanweijieshao.html?ini=4">组织机构</a></li>
+												<li><a href="tuanweijieshao.html?ini=5">分团委介绍</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="tuanqingkuaixun.html">团情快讯</a>
+										</li>
+										<li class="dropdown">
+											<a href="tuanneidangan.html" class="dropdown-toggle" data-toggle="dropdown">团内档案</a>
+											<ul class="dropdown-menu">
+												<li><a href="tuanneidangan.html?ini=lilunxuexi">理论学习</a></li>
+												<li><a href="tuanneidangan.html?ini=qingnianyanjiu">青年研究</a></li>
+												<li><a href="tuanneidangan.html?ini=tuanweiwenjian">团委文件</a></li>
+												<li><a href="tuanneidangan.html?ini=tuanwuzhishi">团务知识</a></li>						
+											</ul>
+										</li>
+										<li  class="dropdown">
+											<a href="zhuanti_1.html" class="dropdown-toggle" data-toggle="dropdown">活动专题</a>
+											<ul class="dropdown-menu">
+												<li><a href="zhuanti_1.html">青年课题研究立项</a></li>
+												<li><a href="zhuanti_2.html">迎新季</a></li>
+												<li><a href="zhuanti_3.html">“I创意We实现”学生活动基金</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="huodongyugao.html">活动预告</a>
+										</li>
+										<li  class="dropdown">
+											<a href="xueshenghui.html" class="dropdown-toggle" data-toggle="dropdown">学生组织</a>
+											<ul class="dropdown-menu">
+												<li><a href="xueshenghui.html?ini=1">四川大学学生会</a></li>						
+												<li><a href="xueshenghui.html?ini=2">四川大学学生社团联合会</a></li>
+												<li><a href="xueshenghui.html?ini=3">团委文化艺术部</a></li>
+												<li><a href="xueshenghui.html?ini=4">四川大学学生学术科技协会</a></li>
+												<li><a href="xueshenghui.html?ini=5">四川大学青年志愿者协会</a></li>
+											</ul>
+										</li>	
+	                            </ul>
+											<div class="pause"   style="float:right;">
+				<span><i class="fa fa-user-circle-o" style="font-size:0.9em;"></i></span>
+				<label  id="loginButton" class="music_label"  style="cursor:pointer;" data-toggle="modal" data-target="#myModal">会员登录</label>
+			</div>
+					<div class="pause" style="z-index:100;float:right;">
+						<audio id="player" autoplay="autoplay" preload="auto" loop="loop">
+							<source src="music/summer.ogg" type="audio/ogg" />
+							<source src="music/summer.mp3" type="audio/mp3" />		
+						</audio>
+						<span id="stop" onclick="play()" data-state="pause"><i class="fa fa-pause-circle-o"></i>
+						</span>
+						<label id="musicLabel" class="music_label">暂停音乐</label>
+							</div>
+	                  </div>
+	         </nav>
+<div>
+<div class="carousel_banner"></div>
+<div id="myCarousel" class="carousel slide carousel_container" data-ride="carousel" >
+	<!-- 轮播（Carousel）指标 -->
+	<ol class="carousel-indicators" style="bottom:0.1em;">
+		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+		<li data-target="#myCarousel" data-slide-to="3"></li>
+		<li data-target="#myCarousel" data-slide-to="4"></li>
+	</ol>   
+	<!-- 轮播（Carousel）项目 -->
+	<div class="carousel-inner" style="opacity:0.8;">
+		<div class="item active">
+			<img src="images/banner_1.jpg" style="width:100%;"  alt="First slide">
+		</div>
+		<div class="item">
+			<img src="images/banner_2.jpg" style="width:100%;" alt="Second slide">
+		</div>
+		<div class="item">
+			<img src="images/banner_3.jpg" style="width:100%;" alt="Third slide">
+		</div>
+		<div class="item">
+			<img src="images/banner_4.jpg" style="width:100%;" alt="Forth slide">
+		</div>
+		<div class="item">
+			<img src="images/banner_5.jpg" style="width:100%;" alt="Fifth slide">
+		</div>
+	</div>
+	<!-- 轮播（Carousel）导航 -->
+	<a class="carousel-control left" href="#myCarousel" data-slide="prev" style="width:50px;">
+	   <span class="fa fa-chevron-left arrow" aria-hidden="true" ></span>
+		<span class="sr-only">Previous</span></a>
+	<a class="carousel-control right" href="#myCarousel" data-slide="next" style="width:50px;">
+	   <span class="fa fa-chevron-right arrow" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span></a>
+	</a>
+
+</div>
+</div> <!--轮播-->
+<div id="section1_content" class = "section1" > 
+<!--绘制分割线-->
+<div style="width:97%;height:2px;background:#f0ab48;margin-top:1.5%;"></div>
+<div style="width:20%;height:3px;background:#c02525;margin-top:-2px;"></div>
+<div class="flow">
+	<div style="float:left;width:35%;margin-left:-20px;">
+		<a class="a_hover section1_title" href="gonggao.html">公告</a>
+		<br>
+		<img src="images/gonggao1.jpg" style="width:85%;margin-top:4px;margin-left:2em;">
+	</div>
+	<div class ="section1_catalog" id="gonggao_div">
+		<ul id="gonggao_ul" >
+			<li><a href="#">四川大学干部师生认真收听收看党的十九大开幕会盛况并座谈</a><label>时间：2017-02-02 17:00</label></li>
+			<li><a href="#">主动服务国家战略对接地方需求 社会服务能力持续增强</a><label>时间：2017-02-02 17:00</label></li>
+			<li><a href="#">四川大学校长谢和平在收听收看中国共产党第十九次全国代表大会开幕会座谈会上的讲话 </a><label>时间：2017-02-02 17:00</label></li>
+			<li><a href="#">四川日报刊发十九大代表、川大党委书记王建国对十九大报告的学习体会</a><label>时间：2017-02-02 17:00</label></li>
+			<li><a href="#">住建部部长：房价过快上涨得到抑制 坚持调控力度“不松劲” </a><label>时间：2017-02-02 17:00</label></li>
+			<li><a href="#">普京：不排除女性成为下任俄罗斯总统的可能性 </a><label>时间：2017-02-02 17:00</label></li>
+		</ul>
+	</div>
+</div>
+<div  class=" flow" >
+	<div style="float:left;width:35%;margin-left:-20px;">
+		<a class="a_hover section1_title" href="yuanxifengcai.html">院系风采</a>
+		<br>
+		<img src="images/yuanxi1.jpg" style="width:90%;margin-top:4px;margin-left:2em;">
+	</div>
+	<div class ="section1_catalog"  id="yuanxi_div">
+		<ul id="yuanxi_ul" >
+			<li><a href="#">关于开展2017年度“大学生创新创业训练计划”项目中期检查的通知 </a><label>时间：2017-02-02 17:00</label></li>
+			<li><a href="#">关于四川大学吴玉章学院2017级新生选拔笔试成绩查询的通知 </a><label>时间：2017-02-02 17:00</label></li>
+			<li><a href="#">关于转发《教育部高等教育司关于公布2017年国家级大学生创新创业训练计划项目名单的通知》的通知</a><label>时间：2017-02-02 17:00</label></li>
+			<li><a href="#">四川日报刊发十九大代表、川大党委书记王建国对十九大报告的学习体会</a><label>时间：2017-02-02 17:00</label></li>
+			<li><a href="#">四川大学2018届创新创业能力特别突出、科研成果特别显著、专业水平特别高的推免生拟推荐名单公示</a><label>时间：2017-02-02 17:00</label></li>
+		</ul>
+	</div>
+</div>
+</div><!--section1 content-->
+
+
+
+	
+
+
+<div class="container" style="width:100%;z-index:900;" id="alter"><div style="margin-top:2%;">
+    <div class="row">
+        <div>
+            <div class="tab" role="tabpanel">
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs" role="tablist">
+                    <li class="active">
+                    	<a href="#Section1" aria-controls="home" data-toggle="tab" onclick="changeTo(1)">
+                    		<span><i class="fa fa-globe"></i></span>团情快讯</a></li>
+                    <li>
+                    	<a href="#Section2" aria-controls="profile" data-toggle="tab" onclick="changeTo(2)">
+                    		<span><i class="fa fa-rocket"></i></span>办事流程</a></li>
+                    <li>
+                    	<a href="#Section3" aria-controls="messages" data-toggle="tab">
+                    		<span><i class="fa fa-archive"></i></span>文件下载</a></li>
+                    <li>
+                    	<a href="#Section4" aria-controls="messages" data-toggle="tab" onclick="changeTo(3)">
+                    		<span><i class="fa fa-calendar"></i></span>活动预告</a></li>
+                    <li>
+                    	<a href="#Section5" aria-controls="messages" data-toggle="tab" >
+                    		<span><i class="fa fa-leaf"></i></span>&nbsp &nbsp专题 &nbsp&nbsp  </a></li>
+                </ul>
+                <!-- Tab panes -->
+                <div class="tab-content tabs">
+                    <div role="tabpanel" class="tab-pane fade in active pane" id="Section1">
+                    	<div id="section1_nav" class="listt list-group">
+
+						</div>
+						
+                        <div id="contentt1" class="content" style="overflow: auto">
+                       	</div>
+                       	<a href="tuanqingkuaixun.html" style="float:left;">>> MORE</a>
+                        
+                    </div>
+                    <div role="tabpanel" class="tab-pane fade pane" id="Section2">
+                        <div id="section9_nav" class="listt list-group">
+
+						</div>
+                        <div id="contentt9" class="content">
+
+                       	</div>
+                    </div>
+                    <div role="tabpanel" class="tab-pane fade" id="Section3">
+                        <div class="list-group file-list" >
+							<a href="/youth/uploads/up/default/-B8-BD-BC-FE2-A3-BA-CB-C4-B4-A8-B4-F3-D1-A7-D0-A3-BC-B6-D1-A7-C9-FA-D7-E9-D6-AF-D3-A1-CB-A2-C6-B7-D6-C6-D7-F7-C9-EA-C7-EB-B1-ED1.doc" class="list-group-item">
+								<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+								<div class="pane-item">四川大学校级学生组织印刷品制作申请表</div></a>
+							<a href="/youth/uploads/up/default/-CB-C4-B4-A8-B4-F3-D1-A7-CD-C5-CE-AF-CE-EF-D7-CA-BD-E8-D3-C3-C9-EA-C7-EB-B1-ED.doc" class="list-group-item">
+								<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+								<div class="pane-item">四川大学团委重要物资借用申请表</div></a>
+							<a href="/youth/uploads/up/default/-D1-A7-CA-F5-BF-C6-BC-BC-A1-A2-B4-B4-D0-C2-B4-B4-D2-B5-C0-E0-BE-BA-C8-FC-BB-F1-BD-B1-D6-A4-C3-F7-C4-A3-B0-E51.docx" class="list-group-item">
+								<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+								<div class="pane-item">学术科技、创新创业类竞赛获奖证明模板</div></a>
+							<a href="/youth/uploads/up/default/changdizhanbanshenqing.doc" class="list-group-item">
+								<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+								<div class="pane-item">四川大学学生活动展板展架场地申请表附件</div></a>
+							<a href="/youth/uploads/up/default/-BD-CC-CA-D2-C9-EA-C7-EB-B1-ED.doc" class="list-group-item">
+								<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+								<div class="pane-item">四川大学教室申请表</div></a>
+							<a href="/youth/uploads/up/default/-C9-EA-C7-EB-B1-ED-A3-A82-C1-AA-A3-A9.doc" class="list-group-item">
+								<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+								<div class="pane-item">青春工坊使用申请表</div></a>
+						</div>
+                    </div>
+                    <div role="tabpanel" class="tab-pane fade pane" id="Section4">
+                        <div id="section4_nav" class="listt list-group">
+						</div>
+                        <div id="contentt4" class="content">
+
+                       	</div>
+                       	<a href="huodongyugao.html" style="float:left;">>> MORE</a>
+                    </div>
+                    
+                    <div role="tabpanel" class="tab-pane fade pane" id="Section5">
+                        <div id="subCarousel" class="carousel slide zhuanti_container" style="">
+						<!-- 轮播（Carousel）指标 -->
+						<ol class="carousel-indicators" style="display: none;">
+							<li data-target="#subCarousel" data-slide-to="0" class="active"></li>
+							<li data-target="#subCarousel" data-slide-to="1"></li>
+						</ol>   
+						<!-- 轮播（Carousel）项目 -->
+						<div class="carousel-inner"  style="padding: 2em;padding-top: 0em;">
+							<div class="item active">
+								<div class="smalltopic" style="background-image: url(images/topic-banner1.jpg);background-size:100%;">
+									<a href="zhuanti_2.html">
+									<div class="topic-board" >
+										<div class="topic-text" >迎新季</div>
+									</div></a>
+								</div>
+								<div class="smalltopic" style="background-image: url(images/topic-banner2.jpg);background-size:100%;">
+									<a href="zhuanti_1.html">
+									<div class="topic-board" >
+										<div class="topic-text" >青年课题研究立项</div>
+									</div></a>
+								</div>
+								<div class="smalltopic"  style="background-image: url(images/topic-banner3.jpg);background-size:100%;">
+									<a href="zhuanti_3.html">
+									<div class="topic-board" >
+										<div class="topic-text" >"I创意WE实现"学术活动</div>
+									</div></a>
+								</div>
+							</div>
+							<div class="item">
+								<div class="smalltopic" style="background-image: url(images/topic-banner4.jpg);background-size:100%;">
+									<a href="zhuanti_3.html">
+									<div class="topic-board" >
+										<div class="topic-text" >"I创意WE实现"学术活动</div>
+									</div>
+									</a>
+								</div>
+								<div class="smalltopic" style="background-image: url(images/topic-banner1.jpg);background-size:100%;">
+									<a href="zhuanti_2.html">
+									<div class="topic-board" >
+										<div class="topic-text" >迎新季</div>
+									</div></a>
+								</div>
+								<div class="smalltopic"  style="background-image: url(images/topic-banner2.jpg);background-size:100%;">
+									<a href="zhuanti_1.html">
+									<div class="topic-board" >
+										<div class="topic-text" >青年课题研究立项</div>
+									</div></a>
+							</div>
+						</div>
+						<!-- 轮播（Carousel）导航 -->
+						<a class="carousel-control left" href="#subCarousel" data-slide="prev" style="width:50px;">
+						   <span class="fa fa-chevron-left topic_arrow" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span></a>
+						<a class="carousel-control right" href="#subCarousel" data-slide="next" style="width:50px;">
+						   <span class="fa fa-chevron-right topic_arrow" aria-hidden="true" ></span>
+							<span class="sr-only">Previous</span></a>
+						</a>
+					</div> 
+                    </div>
+                    </div>
+                	
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+<div style="height:3em;"></div>
+</div>
+
+</body>
+</html>
+<script>
+	$(document).ready(function(){
+
+			$(window).resize(function(){
+					var fsize=$(window).width()/108.5+"px";
+					$(".navbar-nav").css("font-size",fsize);
+			 });
+
+            $(window).scroll(function () {  
+				var wsize=$(window).width();
+				if(wsize>426){
+				var temp=$(window).scrollTop();
+				var offsetTop;
+				if(temp<350)
+                offsetTop =0+ "px";  
+				else{
+				offsetTop=$(window).scrollTop()-300;
+				offsetTop += "px";  }
+                $(".listbar").animate({ marginTop: offsetTop }, 10);  
+				}
+            });  
+	});
+</script>
+<script>
+
+	function getContent(tableName,id){
+		$.get("jsp/indexGetContent.jsp?choosen="+tableName+"&id="+id+"",function(result){
+			if(tableName=="tuanqingkuaixun")
+				$('#mCSB_5_container').html($.trim(result));
+			else if(tableName=="banshiliucheng"){
+				$('#mCSB_2_container').html($.trim(result));
+			}
+			else if(tableName=="huodongyugao"){
+				$('#mCSB_1_container').html($.trim(result));
+			}
+		});
+		$("#contentt1").mCustomScrollbar("scrollTo","top",{scrollInertia:100,timeout:500});
+	}
+	function changeTo(i){
+		if(i==1) //选择团情快讯
+		{
+			//换文章列表
+			$.get("jsp/indexGetNav.jsp?choosen=tq",function(result){
+				$('#section1_nav').html($.trim(result));
+			});			
+			//换文章内容
+			$.get("jsp/indexGetContent.jsp?choosen=tuanqingkuaixun&id=1",function(result){
+				$('#mCSB_5_container').html($.trim(result));
+			});			
+		}
+		else if(i==2) //选择办事流程
+		{
+			//换文章列表
+			$.get("jsp/indexGetNav.jsp?choosen=bs",function(result){
+				$('#section9_nav').html($.trim(result));
+			});			
+			//换文章内容
+			$.get("jsp/indexGetContent.jsp?choosen=banshiliucheng&id=1",function(result){
+				$('#mCSB_2_container').html($.trim(result));
+			});				
+		}
+		else //选择活动预告
+		{
+			//换文章列表
+			$.get("jsp/indexGetNav.jsp?choosen=hd",function(result){
+				$('#section4_nav').html($.trim(result));
+			});			
+			//换文章内容
+			$.get("jsp/indexGetContent.jsp?choosen=huodongyugao&id=1",function(result){
+				$('#mCSB_1_container').html($.trim(result));
+			});				
+		}
+	}
+
+	$(function(){
+	    $(".listt").on({
+        focusin: function() {
+            $(this).addClass("active");
+        },
+        focusout: function() {
+            $(this).removeClass("active");
+        },
+        click: function() {
+            $(this).addClass("active");
+        }
+   		 }, "a");
+		 
+		(function($){
+			$(document).ready(function(){
+				$("#contentt1").mCustomScrollbar({
+					axis:"y",
+					theme:"dark",
+					autoHideScrollbar: true,
+					keyboard:{ enable: true },
+					mouseWheel:{ scrollAmount:300 }
+				}); 
+			});
+		})(jQuery);
+		$("#contentt2").mCustomScrollbar({
+    		axis:"y",
+    		theme:"dark",
+    		autoHideScrollbar: true,
+    		keyboard:{ enable: true },
+    		mouseWheel:{ scrollAmount:100 }
+		});
+
+		$("#contentt4").mCustomScrollbar({
+    		axis:"y",
+    		theme:"dark",
+    		autoHideScrollbar: true,
+    		keyboard:{ enable: true },
+    		mouseWheel:{ scrollAmount:100 }
+		});
+		$("#contentt3").mCustomScrollbar({
+    		axis:"y",
+    		theme:"dark",
+    		autoHideScrollbar: true,
+    		keyboard:{ enable: true },
+    		mouseWheel:{ scrollAmount:100 }
+		});
+		$("#contentt9").mCustomScrollbar({
+    		axis:"y",
+    		theme:"dark",
+    		autoHideScrollbar: true,
+    		keyboard:{ enable: true },
+    		mouseWheel:{ scrollAmount:100 }
+		});
+		$('#myCarousel').carousel({
+           interval: 3000
+        });
+		$("#gonggao_div").mCustomScrollbar({
+    		axis:"y",
+    		theme:"dark",
+    		autoHideScrollbar: true,
+    		keyboard:{ enable: true },
+    		mouseWheel:{ scrollAmount:100 }
+		}); 
+		$("#yuanxi_div").mCustomScrollbar({
+    		axis:"y",
+    		theme:"dark",
+    		autoHideScrollbar: true,
+    		keyboard:{ enable: true },
+    		mouseWheel:{ scrollAmount:100 }
+		}); 
+	});
+	function play(){
+		 var audio = document.getElementById('player'); 
+		 if(audio!==null){             
+			 if(audio.paused){   
+				$("#stop").children().eq(0).removeClass();
+				$("#stop").children().eq(0).addClass("fa fa-pause-circle-o");
+			 	audio.play();//audio.play();// 这个就是播放  
+				document.getElementById('musicLabel').innerHTML = "暂停音乐";
+			 }else{
+			 	$("#stop").children().eq(0).removeClass();
+				$("#stop").children().eq(0).addClass("fa fa-play-circle-o");
+			    audio.pause();// 这个就是暂停
+				document.getElementById('musicLabel').innerHTML = "播放音乐";
+			 }
+		}
+		getContent("tuanqingkuaixun",1);
+		setTimeout("$(document).ready(function(){$(\"#contentt1\").mCustomScrollbar({axis:\"y\",theme:\"dark\",autoHideScrollbar: true,keyboard:{ enable: true },mouseWheel:{ scrollAmount:300 }}); });",1000);
+		if($.cookie("haslogin")=="yes"){
+			$("#loginButton").attr("data-target","#myModal1");
+			$("#loginButton").html("页面管理");
+		}
+ 	}
+	$.get("jsp/indexGetGonggao.jsp?id=1",function(result){
+		$('#gonggao_ul').html($.trim(result));
+	});
+	$.get("jsp/indexGetGonggao.jsp?id=2",function(result){
+		$('#yuanxi_ul').html($.trim(result));
+	});
+	$.get("jsp/indexGetNav.jsp?choosen=tq",function(result){
+		$('#section1_nav').html($.trim(result));
+	});
+
+	function login(){
+		$("#loginButton").attr("data-target","#myModal1");
+		$("#loginButton").html("页面管理");
+		$('#myModal').modal('hide');
+		setTimeout("alert('登录成功！');",700);
+		$.cookie('haslogin', 'yes');
+	}
+
+
+</script>

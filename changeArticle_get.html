@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /> 
+  <title>修改文章</title>
+  <!-- include jquery -->
+  <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+
+  <!-- include libraries BS3 -->
+  <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link href="http://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- include summernote -->
+  <link rel="stylesheet" href="css/summernote.css">
+  <script type="text/javascript" src="js/summernote.js"></script>
+</head>
+<script>
+	$(function() {
+	  $('.summernote').summernote({
+		height: 200
+	  });
+	});
+</script>
+<body onload="getContent()">
+<div class="topTitle">
+	<img src="images/changeBanner.jpg" style="width:100%;opacity:0.9;height:400px;"></img>
+</div>
+<div style="width:80%;margin:0 auto;">
+	<!-- 文章名称编辑框 -->
+	<div class="edit_block" style="margin-top:40px;">
+		<div class="input-group-lg">
+			<label style="float:left;">文章名称：</label>
+			<input style="float:left;width:100%;margin-bottom:30px;" id="form_name" name="form_name" type="text" class="form-control float_left" value="" placeholder="Enter Article Name"/>
+		</div><br>
+	</div>
+
+	<div class="edit_block">
+		<label>编辑文章内容：</label>
+	</div>
+	<!-- 文章内容编辑框 -->
+	<div class="edit_block">	
+		  <textarea id="article_content" name="article_content" class="summernote"></textarea>
+		  <div class="submit_btn">
+			<button type="button" class="btn btn-primary" onclick="window.location.href='index.html'">回到首页</button>
+			<button type="submit" class="btn btn-success" onclick="toChange()">确认修改</button>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+
+<script>
+	function getUrlParam(name) {
+		var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+		var r = window.location.search.substr(1).match(reg);  //匹配目标参数
+		if (r != null) return unescape(r[2]); return null; //返回参数值
+	}
+	
+	function getContent(){
+		$.get("jsp/changeGetTitle.jsp?id="+getUrlParam("id"),function(result){
+			$("#form_name").val(result);
+		});
+		$.get("jsp/indexGetContent.jsp?id="+getUrlParam("id")+"&choosen=gonggao",function(result){
+			$(".note-editable").html(result);
+		});
+	}
+	function toChange(){
+		$.get("jsp/articleChange.jsp?id="+getUrlParam("id")+"&title="+$("#form_name").val(),function(result){
+			alert("修改成功！将返回首页. ");
+			window.location.href="index.html";
+		});
+	}
+</script>
+

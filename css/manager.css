@@ -1,0 +1,44 @@
+.manager_botton{
+	width:120px;height:80px;
+	border-radius:10px;
+	float:left;
+	text-align:center;
+	padding-top:27px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:18px;
+
+}
+.manager_botton:hover{
+	cursor:pointer;
+}
+
+.manager_botton1
+{
+	margin-left:70px;
+	background:#b4d9ffb8;
+}
+.manager_botton1:hover
+{
+	background:#98c9fb;
+}
+
+
+.manager_botton2
+{
+	margin-left:30px;
+	background:#cffb9eb8;
+}
+.manager_botton2:hover
+{
+	background:#bef97d;
+}
+
+.manager_botton3
+{
+	margin-left:30px;
+	background:#fd98fab8;
+}.manager_botton3:hover
+{
+	background:#fd82f9;
+}

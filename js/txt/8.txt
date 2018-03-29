@@ -1,0 +1,253 @@
+﻿<div class="neiyerightctCenter"><style type="text/css">
+.bs-callout {
+    border-left-color: #ce4844;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;</style>
+<div>
+	<div>
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;</span></span><span style="font-size: 16px;"> &nbsp; 四川大学学生学术科技协会是在校党委领导和校团委指导下的校级学生组织，以“追求学术、创新科技、服务同学”为工作理念，紧紧围绕“把学生科协建设成为全国知名的精英型学生学术科技组织”的工作目标。具体承办“挑战杯”学生课外学术科技活动节中以及其他学术科技竞赛；通过组织国内外知名专家学者开展学术讲座；编辑、出版《四川大学学生学报》和《四川大学学生科技报》两份校级刊物；积极协助校团委组织开展其他各类学术科技活动。</span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong><span style="font-size: 16px;">四川大学学生学术科技协会章程</span></strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong><span style="font-size: 16px;">第一章 四川大学学生学术科技协会性质</span></strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size: 16px;">四川大学学生学术科技协会是在四川大学党委领导和团委指导下，以组织我校广大同学积极参加全国大学生“挑战杯”科技创业竞赛、机器人竞赛、英语竞赛及其它学科比赛、组织校内外专家为同学们进行学术讲座、办好《四川大学学生学报》以及与兄弟院校进行学术科研交流的重要校级学生组织。</span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong><span style="font-size: 16px;">第二章 &nbsp;四川大学学生学术科技协会宗旨</span></strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size: 16px;">四川大学学生学术科技协会旨在为加强四川大学学生学术研究深度、广度提供机会与平台，加大四川大学知名专家学者与学生之间关于学术、科技的联系，提高川大学子在“挑战杯”科技创业竞赛、机器人竞赛及其他各种竞赛中的成绩，进一步在校园内营造浓厚的学术氛围，推动我校学生学术科技活动开展。</span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong><span style="font-size: 16px;">第三章 四川大学学生学术科技协会职能</span></strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size: 16px;">第一条 开展科技活动，介绍全国各地高校学生的科技活动。</span></div>
+	<div>
+		<span style="font-size: 16px;">第二条 报道国内外最新科技成果及科技发展趋势。</span></div>
+	<div>
+		<span style="font-size: 16px;">第三条 宣传国内外知名科学家，树立全社会崇尚科学的风尚。</span></div>
+	<div>
+		<span style="font-size: 16px;">第四条 宣传四川大学历届著名科学工作者，鼓舞四川大学学生为科技进步做贡献。</span></div>
+	<div>
+		<span style="font-size: 16px;">第五条 促进校园学风建设，推动当代大学生素质教育，在校团委的直接指导下开展各项工作。</span></div>
+	<div>
+		<span style="font-size: 16px;">第六条 促进科技成果的转化，推动科技产业化。</span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size: 16px;"><strong>第四章 四川大学学生学术科技协会部门</strong> &nbsp;</span></div>
+	<div>
+		<span style="font-size: 16px;"><img style="width: 546px; height: 575px;" alt="" src="/uploads/up/default/qq-CD-BC-C6-AC20130912203144.jpg"></span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size: 16px;">&nbsp;四川大学学生学术科技协会下设七个部门：办公室，组织部，竞赛部，学术交流部，宣传部，项目管理部，编辑部。各部门职责明确，分工协作。</span></div>
+	<div>
+		&nbsp;</div>
+	<div class="bs-callout bs-callout-danger">
+		<span style="font-size: 16px;"><strong>办公室</strong>：我们致力于校科协的组织建设、财务管理、物资调度、文案写作、沟通协调和情报搜集。</span></div>
+	<div>
+		&nbsp;</div>
+	<div class="bs-callout bs-callout-danger">
+		<span style="font-size: 16px;"><strong>竞赛部</strong>：负责“挑战杯”竞赛，“赢在川大”综合能力竞赛，大学生创业园区。</span></div>
+	<div>
+		&nbsp;</div>
+	<div class="bs-callout bs-callout-danger">
+		<span style="font-size: 16px;"><strong>宣传部</strong>：负责校学生科协的形象宣传和整体包装工作。</span></div>
+	<div>
+		&nbsp;</div>
+	<div class="bs-callout bs-callout-danger">
+		<span style="font-size: 16px;"><strong>编辑部</strong>：拥有浓郁学术氛围的刊物《四川大学学生学报》，追求创新完善的报纸《四川大学学生科技报》，依托阵容强大的学报编委会。负责采访学术达人、编辑学术论文、亲办论文交流会。</span></div>
+	<div>
+		&nbsp;</div>
+	<div class="bs-callout bs-callout-danger">
+		<span style="font-size: 16px;"><strong>学术交流部</strong>：主要负责校学生科协的“在川大听讲座”系列活动。</span></div>
+	<div>
+		&nbsp;</div>
+	<div class="bs-callout bs-callout-danger">
+		<span style="font-size: 16px;"><strong>项目管理部</strong>：七大部门中最年轻的部门，诞生约一年，却掌控学校的王牌栏目：科技节。我们开创项目，指导监督科技节活动，并对之进行整体包装，结合评分细则对活动开展考核。</span></div>
+	<div>
+		&nbsp;</div>
+	<div class="bs-callout bs-callout-danger">
+		<div>
+			<span style="font-size: 16px;"><strong>组织部</strong>：负责对分科协进行评比。</span><span style="font-size: 16px;">部门</span></div>
+		<div>
+			&nbsp;</div>
+	</div>
+	<div>
+		<span style="font-family:黑体;"><strong><span style="font-size:22px;">部门干部</span></strong></span></div>
+	<div>
+		<p>
+			<span style="font-size:13.5000pt;">主席：</span></p>
+		<p>
+			<span style="font-size:13.5000pt;">余心怡&nbsp;女&nbsp;共青团员&nbsp;商学院12级本科生</span></p>
+		<p>
+			<span style="font-size:13.5000pt;">副主席：</span></p>
+		<p>
+			<span style="font-size:13.5000pt;">张&nbsp;&nbsp;&nbsp;玮&nbsp;&nbsp;女&nbsp;共青团员&nbsp;商学院12级</span></p>
+		<p>
+			<span style="font-size:13.5000pt;">潘雪健&nbsp;男&nbsp;共青团员&nbsp;生命科学学院12级（交流，现任生命科学学院团委学生副书记）</span></p>
+		<p>
+			<span style="font-size:13.5000pt;">唐艺萌&nbsp;女&nbsp;共青团员&nbsp;文学与新闻学院12级</span></p>
+		<p>
+			<span style="font-size:13.5000pt;">张&nbsp;&nbsp;&nbsp;琳&nbsp;&nbsp;女&nbsp;中共党员&nbsp;文学与新闻学院12级</span></p>
+		<p>
+			<span style="font-size:13.5000pt;">张淏惟&nbsp;男&nbsp;共青团员&nbsp;华西药学院12级</span></p>
+		<p>
+			<span style="font-size:13.5000pt;">梁歆佚&nbsp;女&nbsp;中共党员&nbsp;公共管理学院13级（交流，现任四川大学学生会办公室副主任）</span></p>
+	</div>
+	<p>
+		<strong><span style="font-size:13.5000pt;">二级部门</span></strong></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:12.0000pt;">办公室</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">主任</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">颜&nbsp;&nbsp;滔</span><span style="font-size:10.5000pt;">&nbsp;女&nbsp;共青团员&nbsp;商学院（ACCA）201</span><span style="font-size:10.5000pt;">3级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">副主任</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">吴天琪&nbsp;女&nbsp;共青团员&nbsp;高分子科学与工程学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">金诗雨&nbsp;女&nbsp;共青团员&nbsp;经济学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">黄雪莹&nbsp;女&nbsp;共青团员&nbsp;商学院（ACCA）2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">付裕如&nbsp;女&nbsp;共青团员&nbsp;吴玉章学院2014级（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">朱龙闯&nbsp;男&nbsp;共青团员&nbsp;计算机学院2014级（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:12.0000pt;">组织部</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">王焱斌&nbsp;男&nbsp;共青团员&nbsp;华西基础医学与法医学院2013级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">副部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">杨意江&nbsp;男&nbsp;共青团员&nbsp;商学院（ACCA）2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">易崇华&nbsp;女&nbsp;共青团员&nbsp;公共管理学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">庞玲玲&nbsp;女&nbsp;共青团员&nbsp;公共管理学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">俞一侃&nbsp;男&nbsp;共青团员&nbsp;经济学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">周&nbsp;&nbsp;睿&nbsp;男&nbsp;共青团员&nbsp;电气信息学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<br clear="all">
+		<span style="font-family:微软雅黑;"><span style="font-size:12.0000pt;">竞赛部</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">王琳璐&nbsp;女&nbsp;共青团员&nbsp;商学院ACCA2013级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">副部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">陈慧媛&nbsp;女&nbsp;共青团员&nbsp;数学学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">黄正跃&nbsp;男&nbsp;共青团员&nbsp;物理科学与技术学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">叶&nbsp;&nbsp;轩&nbsp;男&nbsp;共青团员&nbsp;制造科学与工程学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">卜天元&nbsp;女&nbsp;中共党员&nbsp;商学院（ACCA）2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">于&nbsp;&nbsp;达&nbsp;男&nbsp;共青团员&nbsp;商学院（ACCA）2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">王&nbsp;&nbsp;菲&nbsp;女&nbsp;共青团员&nbsp;华西基础医学与法医学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:12.0000pt;">学术交流部</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">朱颜培&nbsp;女&nbsp;共青团员&nbsp;经济学院2013级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">副部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">胡晓桐&nbsp;女&nbsp;共青团员&nbsp;华西药学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">赵晓龙&nbsp;男&nbsp;共青团员&nbsp;经济学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">杨婧威&nbsp;女&nbsp;共青团员&nbsp;电气信息学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">胡德茂&nbsp;男&nbsp;共青团员&nbsp;水利水电学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">何京芮&nbsp;女&nbsp;共青团员&nbsp;文学与新闻学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:12.0000pt;">编辑部</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">主任</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">何幸欣&nbsp;女&nbsp;共青团员&nbsp;建筑与环境学院2013级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">副主任&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">方劲超&nbsp;男&nbsp;共青团员&nbsp;材料科学与工程学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">杨丽琪&nbsp;女&nbsp;共青团员&nbsp;文学与新闻学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">宋凌波&nbsp;女&nbsp;共青团员&nbsp;华西药学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">邹&nbsp;&nbsp;婧&nbsp;女&nbsp;共青团员&nbsp;商学院（ACCA）2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">游&nbsp;&nbsp;矜&nbsp;女&nbsp;共青团员&nbsp;文学与新闻学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<br clear="all">
+		<span style="font-family:微软雅黑;"><span style="font-size:12.0000pt;">宣传部</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">汪&nbsp;&nbsp;力&nbsp;男&nbsp;共青团员&nbsp;公共管理学院2013级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">副部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">戴钰涵&nbsp;女&nbsp;共青团员&nbsp;计算机学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">尚&nbsp;&nbsp;鑫&nbsp;女&nbsp;共青团员&nbsp;文学与新闻学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">周雨婷&nbsp;女&nbsp;共青团员&nbsp;数学学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">蒙一星&nbsp;女&nbsp;共青团员&nbsp;外国语学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">朱令俊&nbsp;女&nbsp;共青团员&nbsp;公共管理学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:12.0000pt;">项目管理部</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">陈人龙&nbsp;男&nbsp;中共党员&nbsp;电子信息学院2013级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">副部长</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">高子昕&nbsp;女&nbsp;共青团员&nbsp;经济学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">高俊飞&nbsp;男&nbsp;中共党员&nbsp;经济学院2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">王奕婷&nbsp;女&nbsp;共青团员&nbsp;商学院（ACCA）2014级&nbsp;</span></span></p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">陈静雯&nbsp;女&nbsp;共青团员&nbsp;公共管理学院2014级&nbsp;（交流）</span></span></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style="font-family:微软雅黑;"><span style="font-size:10.5000pt;">胡&nbsp;&nbsp;蓉&nbsp;女&nbsp;共青团员&nbsp;建筑与环境学院2014级&nbsp;（交流）</span></span></p>
+</div>
+<p>
+	&nbsp;</p>
+</div>

@@ -1,0 +1,88 @@
+ul.mtree {
+  opacity: 0;
+  margin-left: 0;
+  padding: 0em;
+  padding-left: 1em;
+  padding-right:1em;
+}
+ul.mtree ul {
+  margin-left: 1em;
+}
+ul.mtree li {
+  list-style: none;
+}
+ul.mtree a {
+  display: block;
+  color: #000000;
+  text-decoration:none; 
+}
+ul.mtree a:hover,a:visited,a:active{
+	color: #fff;
+	text-decoration:none; 
+}
+
+
+ul.mtree li.mtree-node > a {
+  font-weight: bold;
+}
+
+ul.mtree a {
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+}
+
+ul.mtree.bubba ul {
+  margin-left: 0;
+  padding-left:0.8em;
+}
+ul.mtree.bubba ul li {
+  font-size: .9em;
+}
+ul.mtree.bubba li.mtree-node > a:after {
+  content: '鈥�;
+  margin-left: .5em;
+  font-weight: normal;
+}
+ul.mtree.bubba li.mtree-node > a {
+  font-weight: bold;
+  text-transform: upperCase;
+}
+ul.mtree.bubba > li {
+	border-bottom:1px solid #ccc;
+  border-radius:6px;
+  margin-bottom:5px;
+}
+ul.mtree.bubba > li:last-child {
+  border-bottom: none;
+}
+ul.mtree.bubba li:last-child > a {
+  border: none;
+}
+ul.mtree.bubba > li.mtree-open > a {
+  background: #DDD;
+}
+ul.mtree.bubba li > a:hover {
+  background: #949494;
+}
+ul.mtree.bubba li.mtree-active > a {
+  background: #FFC000;
+  color: #FFF;
+}
+ul.mtree.bubba a {
+  padding: 7px 7px 7px 5px;
+}
+ul.mtree.bubba li li > a {
+  padding-left: 1em;
+}
+ul.mtree.bubba li li li > a {
+  padding-left: 2em;
+}
+ul.mtree.bubba li li li li > a {
+  padding-left: 3em;
+}
+ul.mtree.bubba li li li li li > a {
+  padding-left: 4em;
+}

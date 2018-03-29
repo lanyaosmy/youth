@@ -1,0 +1,811 @@
+﻿<div class="content-art">
+			<h1>四川大学非学术性社团名单</h1>
+			<div class="attr">
+				发布时间：2014-09-03 13:59:00  浏览次数：<script src="//www.google-analytics.com/analytics.js" async=""></script><script src="/index.php/system/web/view/viewnumber/id/5444" type="text/javascript"></script>216
+			</div>
+			<div class="content-text">
+				<p>
+	&nbsp;</p>
+<table width="591" height="3719" style="width: 591px">
+	<colgroup>
+		<col>
+		<col>
+		<col>
+	</colgroup>
+	<tbody>
+		<tr height="19">
+			<td height="39" style="width: 596px; height: 39px" rowspan="2" colspan="3" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">非学术型社团名单</span></span></td>
+		</tr>
+		<tr height="20">
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 151px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">社团类别</span></span></td>
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">社团名称</span></span></td>
+			<td height="20" style="width: 146px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">学生社团类型</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="520" style="width: 151px; height: 520px" rowspan="26" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">体育类<br>
+				（26）</span></span></td>
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">乒乓球协会</span></span></td>
+			<td height="320" style="width: 146px; height: 320px" rowspan="16" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">排球协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">足球协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">篮球协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">武术协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">网球协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">台球协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">羽毛球协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">体育舞蹈协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">棋牌协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">梅花桩武术协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">风越翎翔轮滑协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">定向运动协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">跆拳道协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">体育促进协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">啦啦操队</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">SCM健身协会</span></span></td>
+			<td height="200" style="width: 146px; height: 200px" rowspan="10" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">院级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">瑜伽社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">&nbsp;晨练协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">魔方协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">漂移板社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">&nbsp;&nbsp;i-EXT滑板社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">自强自行车协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">羽毛球俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">飞盘协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">篮球社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="580" style="width: 151px; height: 580px" rowspan="29" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">实践类<br>
+				（29）</span></span></td>
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">就业与创业协会</span></span></td>
+			<td height="240" style="width: 146px; height: 240px" rowspan="12" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校友联络协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">消费者挚友协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">宝洁菁英俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">未来企业家俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">未来菁英俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">成才协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">晨读社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">旅游协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">飞扬俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">普法服务社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">市场营销协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">创意生活堂</span></span></td>
+			<td height="340" style="width: 146px; height: 340px" rowspan="17" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">院级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">唐立新优秀学生俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">腾讯职场精英发展协会/IT职场精英</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">兼程协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">起航俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">专业实训促进协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">起床俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">航模社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">川梦工友之家协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">生活购物指南社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">成长促进社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">智力快车</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">CY实践团队</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">徒步协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">“新叶”成长俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">新媒体研究社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">新历程俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="560" style="width: 151px; height: 560px" rowspan="28" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">艺术类（28）</span></span></td>
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">皮影协会</span></span></td>
+			<td height="360" style="width: 146px; height: 360px" rowspan="18" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">BOBO街舞协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">戏曲社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">京剧研习社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">时装模特协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">青年摇滚社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">古筝协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">B-Box协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">零一广播剧社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">魔术协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">书画协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">古琴协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">音悦协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">九天器乐俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">欧美音乐协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">雷雨话剧社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">影视协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">红动漫协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">Abo习舞社</span></span></td>
+			<td height="200" style="width: 146px; height: 200px" rowspan="10" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">院级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">书法研究会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">笛箫社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">追梦话剧社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">DV协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">少数民族交流协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">学生艺术团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">合唱团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">“筑之韵”舞蹈协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">京剧社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="180" style="width: 151px; height: 180px" rowspan="9" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">科技类<br>
+				（9）</span></span></td>
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">科幻协会</span></span></td>
+			<td height="140" style="width: 146px; height: 140px" rowspan="7" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">机器人足球协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">天文协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">微软技术俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">电脑协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">IBM俱乐部</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">数字娱乐与电子竞技协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">移动互联协会</span></span></td>
+			<td height="40" style="width: 146px; height: 40px" rowspan="2" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">院级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">google&nbsp;camp</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="460" style="width: 151px; height: 460px" rowspan="23" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">公益类（23）</span></span></td>
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">环保志愿者协会</span></span></td>
+			<td height="280" style="width: 146px; height: 280px" rowspan="14" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">大学生自助协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">动物保护协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">行知协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">恒沙手语协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">巧心坊协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">馨心社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">自强社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">鸿志社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">乡梓社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">同心社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">思源社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">大熊猫喜爱者协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">至善社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">社会工作者协会</span></span></td>
+			<td height="180" style="width: 146px; height: 180px" rowspan="9" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">院级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">“牵手”未教所帮教协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">爱眼协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">微笑派协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">博爱者协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">雨露社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">绿种子协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">义梦川大志愿者协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">灾后众志者协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="700" style="width: 151px; height: 700px" rowspan="35" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">语言文化类（35）</span></span></td>
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">海峡两岸青年互助协会</span></span></td>
+			<td height="260" style="width: 146px; height: 260px" rowspan="13" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">摄影协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">日语协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">学生通讯社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">ID.POP协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">法语协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">英语协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">文学联合会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">飞跃重洋协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">广告协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">演讲与交际协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校史文化协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">笑笑相声社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">岚阁文学社</span></span></td>
+			<td height="440" style="width: 146px; height: 440px" rowspan="22" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">院级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">清韵文学社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">英语协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">新生演讲与朗诵协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">涓流文学社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">“怀桑忆梓”家乡文化传播交流协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">陶然诗社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">英语协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">语言艺术协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">闽台文化协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">商务口语协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校园时评报社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">俄语协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">礼仪文化协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">外语杂志爱好者协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">外国文学爱好者协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">文化行者协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">自在诗文社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">青桐文学社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">粤语文化协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">汉服文化协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">志摩诗社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="660" style="width: 151px; height: 660px" rowspan="33" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">理论学习类（33）</span></span></td>
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">心理协会</span></span></td>
+			<td height="100" style="width: 146px; height: 100px" rowspan="5" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">校级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">诚社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">茶学社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">晨读社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">思想政治理论读书会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">心晴心理协会</span></span></td>
+			<td height="560" style="width: 146px; height: 560px" rowspan="28" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">院级社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">书社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">W.E.桌游心理协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">天使心理协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">“求索”化学模型社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">养生协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">525心雨空间</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">心悦心理咨询协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">中国特色社会主义理论研讨会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">深入学习实践科学发展观研究分会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">雷锋精神学习研讨会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">常青藤心理健康协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">历史与人文研究协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">好书妙影协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">思想政治理论研究会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">芜回读书会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">心理协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">idea精英汇</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">ACCA联合会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">科学发展研究会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">青年生命科学学会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">TED学术交流协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">“星泉”心理协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">国防协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">推理社</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">心飞心理协会</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">剑歌长行社团</span></span></td>
+		</tr>
+		<tr height="20">
+			<td height="20" style="width: 294px; height: 20px" x:str="">
+				<span style="font-family: 宋体"><span style="font-size: 18px">学术交流协会</span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+			</div>
+		</div>

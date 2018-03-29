@@ -1,0 +1,44 @@
+﻿<div class="neiyerightctCenter"><div>
+	<span style="font-size: 16px;"><span style="font-family: 微软雅黑;">&nbsp;</span><span style="font-family:微软雅黑;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 四川大学青年志愿者行动起始于1994年3月，1997年正式成立了四川大学青年志愿者总队并于2004年更名为四川大学青年志愿者协会。青年志愿者协会现有注册志愿者43470人，每年新增注册志愿者9000余人。协会下属的基层行动组织包括30支学院志愿者服务队、21支围合志愿者服务队以及七支特色志愿者服务队——图书馆志愿者队、博物馆志愿者队、阳光心灵志愿者队，应急救护志愿者队、社区志愿者队、无偿献血志愿者队、礼仪志愿者队,建立了长期稳定的特色志愿服务项目76个，志愿服务基地71个。</span></span>
+	<p class="pa-0">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 多年来，协会高举青年志愿者旗帜，大力弘扬“奉献、友爱、互助、进步”的志愿精神，秉承“立足校园、服务社会”的志愿服务宗旨，在校园内外组织开展志愿服务累计41000余项，提供了416万余小时的志愿服务。特别在08年汶川地震抗震救灾、13年芦山地震抗震救灾、第十至十四届中国西部国际博览会等工作中做出突出贡献。与此同时，校内大批公益社团、公益性学生自组织的蓬勃发展也进一步丰富和完善了川大志愿服务工作。</span></span></span></p>
+	<p class="pa-1">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在各级党政领导的关心支持下，在一批批志愿者的共同努力下，川大志愿服务工作得到了长足的发展，取得了一系列可喜的成绩，受到社会各界的广泛赞誉。四川大学青年志愿者协会先后荣获了“中国十大杰出青年志愿服务集体”、“全国抗震救灾先进团组织”、“全国学习雷锋志愿服务先进集体”、“全国无偿献血促进奖”、“第五届四川省优秀志愿服务集体”“四川省灾后恢复重建优秀青年志愿服务集体” 等称号。四川大学环保志愿者协会、四川大学行知协会、四川大学动物保护协会等三个校级公益社团也荣获了“全国高校校园百强社团”称号。</span></span></span></p>
+	<p class="pa-0">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-0">协会机构</span></span></span></p>
+	<p class="pa-0">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-0">办公室</span></span></span></p>
+	<p class="pa-1">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 作为协会内外沟通的枢纽，处理协会日常事务、制度建设、部门考核、财务与物品管理；负责工作简报以及相关资料的收集与保管；探索1+X团建模式，引导协助志愿者服务队完成队伍组织建设；对各学院服务队的基本工作进行考评。</span></span></span></p>
+	<p class="pa-0">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-0">宣传部</span></span></span></p>
+	<p class="pa-1">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 作为全校志愿者活动对外宣传的窗口，及时报道志愿服务活动，展示志愿者风貌，弘扬志愿者精神；志愿者网站的日常维护及志愿服务信息网络传播；协助协会设计制作相关宣传资料；培养熟练应用多媒体、网站维护等技术的人才；探索引领志愿文化信息化管理发展方向。</span></span></span></p>
+	<p class="pa-0">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-0">志愿者权益保障部</span></span></span></p>
+	<p class="pa-1">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 作为志愿者权益保障工作的核心，负责全校志愿者信息的管理，开发维护 “时间银行”特色项目；同时负责志愿者注册管理、志愿服务信息管理、志愿者培训、志愿者表彰等工作。</span></span></span></p>
+	<p class="pa-0">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-0">公共事业服务部</span></span></span></p>
+	<p class="pa-1">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 主要动员组织全校师生参与社会实践活动、扶贫开发等志愿服务工作。</span></span></span></p>
+	<p class="pa-2">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-0">校园服务部</span></span></span></p>
+	<p class="pa-3">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 立足校园、服务师生，在校园内开展教育事业辅助指导、教学基础设施维护、配合学校各部处开展会务或后勤服务等工作，如校院赛会志愿服务、实验室助教、学习辅导、教学设备等整理维护，师生教学权益维护等；在校园公共生活区域，面向全体教职员工和学生，开展日常生活志愿服务专项工作，如书报阅览架设置、自行车摆放等校园秩序维护、物品维修、失物招领、节日宣传纪念、校内环境整治维护等。</span></span></span></p>
+	<p class="pa-2">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-0">社区公益部</span></span></span></p>
+	<p class="pa-2">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 面向校内外各大社区，开展和谐社区建设志愿服务工作，包括各类关心离退休教职工、社区老年人志愿服务、社区宣传教育活动、社区老年大学、社区文艺汇演、便利进社区、校外环保宣传等活动。</span></span></span></p>
+	<p class="pa-2">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-0">爱心帮扶部</span></span></span></p>
+	<p class="pa-2">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 面向成都市周围的特殊人群，为营造健康的青少年成长教育环境、帮助青少年健康成长开展爱心家教、主题教育、少教所服务、心理援助等志愿服务工作，为残疾人、农民工、弱势群体、特殊人群提供志愿服务，例如：关爱留守儿童、走进特教中心、盲校援助、文化助残、关爱特殊人群等活动。</span></span></span></p>
+	<p class="pa-2">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-0">救防保健部</span></span></span></p>
+	<p class="pa-2">
+		<span style="font-family:微软雅黑;"><span style="font-size: 16px;"><span class="ca-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在校内校外开展消防安全等应急救援工作、医疗防护、无偿献血、保健宣传等相关志愿服务工作。例如：医院秩序维护、世界防艾日宣传、消防安全宣传、灾区援助、应急救护培训等活动。</span></span></span></p>
+</div>
+<div>
+	&nbsp;</div>
+</div>

@@ -1,0 +1,19 @@
+#gonggao_ul a{
+	color:#000;
+}
+#gonggao_ul a:hover{
+	color:#e64534;
+}
+
+#gonggao_div label,#yuanxi_div label{
+	
+	color#8d8c8c;
+	padding-left:10px;
+}
+
+#yuanxi_ul a{
+	color:#000;
+}
+#yuanxi_ul a:hover{
+	color:#e64534;
+}

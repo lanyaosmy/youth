@@ -1,0 +1,9 @@
+﻿<div class="neiyerightctCenter"><p style="text-align: center;">
+	<img style="width: 691px; height: 320px;" alt="" src="js/txt/pic/qq-CD-BC-C6-AC201512101914401.png"></p>
+<p>
+	&nbsp;</p>
+<p>
+	<img style="width: 100%;" alt="" src="js/txt/pic/qq-CD-BC-C6-AC201512101914532.jpg"></p>
+<p>
+	<span style="font-family: 宋体; font-size: 18px;">&nbsp;<span style="font-family:微软雅黑;"> &nbsp; 关注四川大学学生社团联合会，请点击社团联官方网站：</span></span><span style="font-family:微软雅黑;"><a style="font-size: 18px; font-family: 黑体;" href="http://sau.scu.edu.cn">http：//sau.scu.edu.cn</a><span style="font-size: 18px;">&nbsp;&nbsp;</span></span></p>
+</div>

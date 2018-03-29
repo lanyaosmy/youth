@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /> 
+  <title>添加文章</title>
+
+  <!-- include jquery -->
+  <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+
+  <!-- include libraries BS3 -->
+  <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link href="http://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- include summernote -->
+  <link rel="stylesheet" href="css/summernote.css">
+  <script type="text/javascript" src="js/summernote.js"></script>
+	<script type="text/javascript">
+		$(function() {
+		  $('.summernote').summernote({
+			height: 200
+		  });
+		});
+		
+		function change(a){
+			$("#article_type").html($(a).html());
+			$("#form_type").val($(a).html());
+
+		}
+		
+		function check(){
+			if($("#form_type").val()==""){
+				alert("请选择类型！");return false;}
+			else if($("#form_name").val()==""){
+				alert("请输入文章名！");return false;}
+			else if($("#article_content").code()=="<p><br></p>"){
+				alert("请输入文章内容！");
+				return false;
+			}
+			return true;
+		}
+	</script>  
+</head>
+<body>
+<div class="topTitle">
+	<img src="images/editBanner.jpg" style="width:100%;opacity:0.9"></img>
+</div>
+<div class="editDiv">
+<form action="jsp/articleInsert.jsp" method="post" onsubmit="return check()">
+	<!-- 文章类型下拉列表 -->
+	<div class="edit_block">
+		<label>请选择要插入的文章类型：</label>
+		<div class="btn-group">
+			<button id="article_type" type="button" class="btn btn-default">文章类型</button>
+			<input id="form_type" name="form_type" type="text" hidden="hidden" value=""/>
+			<button type="button" class="btn btn-default dropdown-toggle" 
+					data-toggle="dropdown">
+				<span class="caret"></span>
+				<span class="sr-only">切换下拉菜单</span>
+			</button>
+			<ul class="dropdown-menu" role="menu">
+				<li><a onclick="change(this)">公告</a></li>
+				<li><a onclick="change(this)">活动预告</a></li>
+				<li><a onclick="change(this)">学代会通知</a></li>
+				<li class="divider"></li>
+				<li class="artical_subtitle">团内档案</li>
+				<li><a onclick="change(this)">理论学习</a></li>
+				<li><a onclick="change(this)">青年研究</a></li>
+				<li><a onclick="change(this)">团委文件</a></li>
+				<li><a onclick="change(this)">团务知识</a></li>
+				<li class="divider"></li>
+			</ul>
+		</div>
+	</div>
+	
+	<!-- 文章名称编辑框 -->
+	<div class="edit_block">
+		<div class="input-group-lg">
+			<label>请输入文章名称：</label>
+			<input id="form_name" name="form_name" type="text" class="form-control float_left" value="" placeholder="Enter Article Name"/>
+		</div><br>
+	</div>
+	
+	<div class="edit_block">
+		<label>编辑文章内容：</label>
+	</div>
+	<!-- 文章内容编辑框 -->
+	<div class="edit_block">	
+		  <textarea id="article_content" name="article_content" class="summernote"></textarea>
+		  <div class="submit_btn">
+			<button type="button" class="btn btn-primary" onclick="window.location.href='index.html'">回到首页</button>
+			<button type="submit" class="btn btn-success">添加文章</button>
+		</div>
+	</div>
+</form>
+</div>
+<div style="height:180px;width:100%;"><div>
+</body>
+</html>

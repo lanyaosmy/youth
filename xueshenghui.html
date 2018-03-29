@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>学生组织</title>
+
+	<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="js/jquery.mCustomScrollbar.concat.min.js"></script> 
+	<script src="js/getParameter.js"></script>
+	<script type="text/javascript" src="js/bootsnav.js"></script>
+    <link href="http://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/jquery.mCustomScrollbar.css" />
+    <link rel="stylesheet" type="text/css" href="css/home.css">
+	<link rel="stylesheet" type="text/css" href="css/bootsnav.css">
+	<script src='js/jquery.velocity.min.js'></script>  
+	<link rel="stylesheet" type="text/css" href="css/mtree.css">
+	<link rel="stylesheet" href="css/search.css">
+	<link rel="stylesheet" href="css/nav.css">
+	<script src='js/xueshenghui.js'></script> 
+<style>
+.listbar span{
+	color:#ababab;
+	font-size:12px;
+	float:right;
+}
+
+.listbar label{
+	cursor:pointer;
+}
+
+.listbar label:hover{
+	color:red;
+}
+</style>
+</head>
+<body>
+<div id="dowebok">
+
+		         <nav class="navbar navbar-default navbar-mobile bootsnav"  style="background: linear-gradient( #fbc215,#ffc000, #fbc215);min-height:2em;position:fixed;">
+	                        <div class="navbar-header">
+	                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+	                                <i class="fa fa-bars"></i>
+	                            </button>
+	                        </div>
+	                        <div class="collapse navbar-collapse" id="navbar-menu">
+	                            <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
+										<li><a href="index.html" id="shouye">首页</a></li>
+										<li><a href="xuedaihui.html">第十三次学代会专栏</a></li>
+										<li class="dropdown">
+											<a href="tuanweijieshao.html" class="dropdown-toggle" data-toggle="dropdown">团委介绍</a>
+											<ul class="dropdown-menu">
+												<li><a href="tuanweijieshao.html?ini=1">川大团委</a></li>
+												<li><a href="tuanweijieshao.html?ini=2">团委成员</a></li>
+												<li><a href="tuanweijieshao.html?ini=4">组织机构</a></li>
+												<li><a href="tuanweijieshao.html?ini=5">分团委介绍</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="tuanqingkuaixun.html" >团情快讯</a>
+										</li>
+										<li class="dropdown">
+											<a href="tuanneidangan.html" class="dropdown-toggle" data-toggle="dropdown">团内档案</a>
+											<ul class="dropdown-menu">
+												<li><a href="tuanneidangan.html?ini=lilunxuexi">理论学习</a></li>
+												<li><a href="tuanneidangan.html?ini=qingnianyanjiu">青年研究</a></li>
+												<li><a href="tuanneidangan.html?ini=tuanweiwenjian">团委文件</a></li>
+												<li><a href="tuanneidangan.html?ini=tuanwuzhishi">团务知识</a></li>						
+											</ul>
+										</li>
+										<li  class="dropdown">
+											<a href="zhuanti_1.html" class="dropdown-toggle" data-toggle="dropdown">活动专题</a>
+											<ul class="dropdown-menu">
+												<li><a href="zhuanti_1.html">青年课题研究立项</a></li>
+												<li><a href="zhuanti_2.html">迎新季</a></li>
+												<li><a href="zhuanti_3.html">“I创意We实现”学生活动基金</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="huodongyugao.html">活动预告</a>
+										</li>
+										<li  class="dropdown">
+											<a href="xueshenghui.html" class="dropdown-toggle" data-toggle="dropdown">学生组织</a>
+											<ul class="dropdown-menu">
+												<li><a href="xueshenghui.html?ini=1">四川大学学生会</a></li>						
+												<li><a href="xueshenghui.html?ini=2">四川大学学生社团联合会</a></li>
+												<li><a href="xueshenghui.html?ini=3">团委文化艺术部</a></li>
+												<li><a href="xueshenghui.html?ini=4">四川大学学生学术科技协会</a></li>
+												<li><a href="xueshenghui.html?ini=5">四川大学青年志愿者协会</a></li>
+											</ul>
+										</li>	
+	                            </ul>
+
+							</div>
+	         </nav>
+</div>
+<div class="titlebar" >
+	<div id="zhuanti-title" class="zhuanti-title">学生会</div>
+	<div id="title-content" class="title-content" style="overflow:auto;">学生组织</div>		
+</div>
+<img src="images/zhuanti-banner2.jpg" style="height:25em;width:100%;">
+<div style="background-color: #f6ffe8;padding-top:1.5em;" id="#alter">
+<div class="container" style="margin:0 auto;">
+
+	
+	<div class="listbar">
+		<ul id="list_ul" class="mtree bubba">
+		  <li id="li_1"><a href="#">四川大学学生会</a>
+			    <ul>
+			      <li><a href="#" onclick="changeContent(1)">联系我们</a></li>
+			    </ul>
+			</li>
+		  <li id="li_2"><a href="#">四川大学学生社团联合会</a>
+			    <ul>
+			      <li><a href="#" onclick="changeContent(2)">联系我们</a></li>
+			      <li><a href="#">社联公告</a>
+			      	<ul>
+			      		<li><a href="#" onclick="changeContent(13)">关于选拔学生参加“星巴克青年领导力发展项目”的通知</a></li>
+			      		<li><a href="#" onclick="changeContent(14)">四川大学非学术性社团名单</a></li>
+			      		<li><a href="#" onclick="changeContent(15)">四川大学学术型社团名单</a></li>
+			      		<li><a href="#" onclick="changeContent(16)">关于举办四川省第十届大学生书法大赛的通知</a></li>
+			      	</ul>			      
+			     </li>
+			    </ul>		  
+		  </li>
+		  <li id="li_3"><a href="#">团委文化艺术部</a>
+			    <ul>
+			      <li><a href="#" onclick="changeContent(4)">测测你文青吗</a></li>
+			      <li><a href="#" onclick="changeContent(5)">我要办活动</a></li>
+			      <li><a href="#" onclick="changeContent(6)">我们在这里</a></li>
+			    </ul>		  
+		  </li>
+		  <li id="li_4"><a href="#">四川大学学生学术科技协会</a>
+			    <ul>
+			      <li><a href="#" onclick="changeContent(8)">部门概况</a></li>
+			      <li><a href="#" onclick="">公告通知</a>
+			      	<ul>
+			      		<li><a href="#" onclick="changeContent(9)">“大学N次方”2014届新生迎新经验分享会成功举办</a></li>
+			      		<li><a href="#" onclick="changeContent(10)">关于开展大学生法治主题教育活动的通知</a></li>
+			      		<li><a href="#" onclick="changeContent(11)">关于组织开展四川大学大学生法治知识竞赛的通知</a></li>
+			      	</ul>
+			      </li>
+			    </ul>		  
+		  </li>
+		  <li id="li_5"><a href="#">四川大学青年志愿者协会</a>
+			    <ul>
+			      <li><a href="#" onclick="changeContent(12)">青志简介</a></li>
+			    </ul>
+			</li>
+		</ul>
+	</div>
+		<div id="content_div" class="list-content">
+			 <div class="neiyerightctCenter"><p style="text-align: center;">
+				<span style="font-size:16px;"><span style="font-family: 微软雅黑;">&nbsp; &nbsp; &nbsp; &nbsp;四川大学学生会（英文 Students' Union，Sichuan University，简称SUSU）是中共四川大学委员会领导和共青团四川大学委员会具体指导下的学生群众组织。学生会承认《中华全国学生联合会章程》、《四川省学生联合会章程》和《成都市学生联合会章程》，并作为团体会员参加中华全国学生联合会、四川省学生联合会、成都市学生联合会。学生会宗旨是：坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想，在科学发展观的指导下，全面贯彻党的教育方针、政策，发挥联结学校和同学之间的桥梁纽带作用，全心全意为广大同学服务，坚持以全面提高同学综合素质为工作中心，为团结和引导全校同学成长为中国特色社会主义事业的建设者和接班人而努力奋斗。<br>
+				<img style="width: 700px; height: 527px;" alt="" src="js/txt/pic/xuesehnghui.png"><br>
+				四川大学学生会官方网站<a href="http://su.scu.edu.cn/" target="_blank">http://su.sc</a></span></span><a href="http://su.scu.edu.cn/" target="_blank"><wbr></a><span style="font-size:16px;"><span style="font-family: 微软雅黑;"><a href="http://su.scu.edu.cn/" target="_blank">u.edu.cn/</a></span></span></p>
+			</div>
+       	</div>
+    
+</div>
+<div style="height:2em;"></div>
+</div>
+</body>
+</html>
+<script>
+	$(document).ready(function(){
+
+			$(window).resize(function(){
+					var fsize=$(window).width()/108.5+"px";
+					$(".navbar-nav").css("font-size",fsize);
+			 });
+
+            $(window).scroll(function () {  
+				var wsize=$(window).width();
+				if(wsize>426){
+				var temp=$(window).scrollTop();
+				var offsetTop;
+				if(temp<350)
+                offsetTop =0+ "px";  
+				else{
+				offsetTop=$(window).scrollTop()-300;
+				offsetTop += "px";  }
+                $(".listbar").animate({ marginTop: offsetTop }, 10);  
+				}
+            });  
+	});
+</script>
+<script>
+	if(getUrlParam("ini")!=null){	
+		if(getUrlParam("ini")==1){
+			changeContent(1);
+			$(".zhuanti-title").html("四川大学学生会");
+			$("#title-content").html("联系我们");
+			setTimeout(function(){
+				$("#li_1").removeClass("mtree-closed");
+				$("#li_1").addClass("mtree-open mtree-active");
+				$("#li_1 ul").attr("style","height: auto; display: block; overflow: hidden;");		
+			},200);		
+		}else if(getUrlParam("ini")==2){
+			changeContent(2);
+			$('.zhuanti-title').html("四川大学学生社团联合会");
+			$("#title-content").html("联系我们");
+			setTimeout(function(){
+				$("#li_2").removeClass("mtree-closed");
+				$("#li_2").addClass("mtree-open mtree-active");
+				$("#li_2 ul").attr("style","height: auto; display: block; overflow: hidden;");		
+			},200);	
+		}else if(getUrlParam("ini")==3){
+			changeContent(4);
+			$('.zhuanti-title').html("团委文化艺术部");
+			$("#title-content").html("测测你文青吗");
+			setTimeout(function(){
+				$("#li_3").removeClass("mtree-closed");
+				$("#li_3").addClass("mtree-open mtree-active");
+				$("#li_3 ul").attr("style","height: auto; display: block; overflow: hidden;");		
+			},200);	
+		}else if(getUrlParam("ini")==4){
+			changeContent(8);
+			$('.zhuanti-title').html("四川大学学生学术科技协会");
+			$("#title-content").html("部门概况");
+			setTimeout(function(){
+				$("#li_4").removeClass("mtree-closed");
+				$("#li_4").addClass("mtree-open mtree-active");
+				$("#li_4 ul").attr("style","height: auto; display: block; overflow: hidden;");		
+			},200);	
+		}else if(getUrlParam("ini")==5){
+			changeContent(12);
+			$('.zhuanti-title').html("四川大学青年志愿者协会");
+			$("#title-content").html("青志简介");
+			setTimeout(function(){
+				$("#li_5").removeClass("mtree-closed");
+				$("#li_5").addClass("mtree-open mtree-active");
+				$("#li_5 ul").attr("style","height: auto; display: block; overflow: hidden;");		
+			},200);	
+		}
+		}else{
+			changeContent(1);
+		}
+	$(function(){
+  		if ($('ul.mtree').length) {
+	        var collapsed = true;
+	        var close_same_level = true;
+	        var duration = 400;
+	        var listAnim = true;
+	        var easing = 'easeOutQuart';
+	        $('.mtree ul').css({
+	            'overflow': 'hidden',
+	            'height': collapsed ? 0 : 'auto',
+	            'display': collapsed ? 'none' : 'block'
+	        });
+	        var node = $('.mtree li:has(ul)');
+	        node.each(function (index, val) {
+	            $(this).children(':first-child').css('cursor', 'pointer');
+	            $(this).addClass('mtree-node mtree-' + (collapsed ? 'closed' : 'open'));
+	            $(this).children('ul').addClass('mtree-level-' + ($(this).parentsUntil($('ul.mtree'), 'ul').length + 1));
+	        });
+	        $('.mtree li > *:first-child').on('click.mtree-active', function (e) {
+	            if ($(this).parent().hasClass('mtree-closed')) {
+	                $('.mtree-active').not($(this).parent()).removeClass('mtree-active');
+	                $(this).parent().addClass('mtree-active');
+	            } else if ($(this).parent().hasClass('mtree-open')) {
+	                $(this).parent().removeClass('mtree-active');
+	            } else {
+	                $('.mtree-active').not($(this).parent()).removeClass('mtree-active');
+	                $(this).parent().toggleClass('mtree-active');
+	            }
+	        });
+	        node.children(':first-child').on('click.mtree', function (e) {
+	            var el = $(this).parent().children('ul').first();
+	            var isOpen = $(this).parent().hasClass('mtree-open');
+	            if ((close_same_level || $('.csl').hasClass('active')) && !isOpen) {
+	                var close_items = $(this).closest('ul').children('.mtree-open').not($(this).parent()).children('ul');
+	                if ($.Velocity) {
+	                    close_items.velocity({ height: 0 }, {
+	                        duration: duration,
+	                        easing: easing,
+	                        display: 'none',
+	                        delay: 100,
+	                        complete: function () {
+	                            setNodeClass($(this).parent(), true);
+	                        }
+	                    });
+	                } else {
+	                    close_items.delay(100).slideToggle(duration, function () {
+	                        setNodeClass($(this).parent(), true);
+	                    });
+	                }
+	            }
+	            el.css({ 'height': 'auto' });
+	            if (!isOpen && $.Velocity && listAnim)
+	                el.find(' > li, li.mtree-open > ul > li').css({ 'opacity': 0 }).velocity('stop').velocity('list');
+	            if ($.Velocity) {
+	                el.velocity('stop').velocity({
+	                    height: isOpen ? [
+	                        0,
+	                        el.outerHeight()
+	                    ] : [
+	                        el.outerHeight(),
+	                        0
+	                    ]
+	                }, {
+	                    queue: false,
+	                    duration: duration,
+	                    easing: easing,
+	                    display: isOpen ? 'none' : 'block',
+	                    begin: setNodeClass($(this).parent(), isOpen),
+	                    complete: function () {
+	                        if (!isOpen)
+	                            $(this).css('height', 'auto');
+	                    }
+	                });
+	            } else {
+	                setNodeClass($(this).parent(), isOpen);
+	                el.slideToggle(duration);
+	            }
+	            e.preventDefault();
+	        });
+	        function setNodeClass(el, isOpen) {
+	            if (isOpen) {
+	                el.removeClass('mtree-open').addClass('mtree-closed');
+	            } else {
+	                el.removeClass('mtree-closed').addClass('mtree-open');
+	            }
+	        }
+	        if ($.Velocity && listAnim) {
+	            $.Velocity.Sequences.list = function (element, options, index, size) {
+	                $.Velocity.animate(element, {
+	                    opacity: [
+	                        1,
+	                        0
+	                    ],
+	                    translateY: [
+	                        0,
+	                        -(index + 1)
+	                    ]
+	                }, {
+	                    delay: index * (duration / size / 2),
+	                    duration: duration,
+	                    easing: easing
+	                });
+	            };
+	        }
+	        if ($('.mtree').css('opacity') == 0) {
+	            if ($.Velocity) {
+	                $('.mtree').css('opacity', 1).children().css('opacity', 0).velocity('list');
+	            } else {
+	                $('.mtree').show(200);
+	            }
+	        }
+	    }
+		
+
+	});
+</script>

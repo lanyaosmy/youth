@@ -1,0 +1,20 @@
+﻿<div class="list-group file-list" >
+	<a href="/youth/uploads/up/default/-B8-BD-BC-FE2-A3-BA-CB-C4-B4-A8-B4-F3-D1-A7-D0-A3-BC-B6-D1-A7-C9-FA-D7-E9-D6-AF-D3-A1-CB-A2-C6-B7-D6-C6-D7-F7-C9-EA-C7-EB-B1-ED1.doc" class="list-group-item">
+		<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+		<div class="pane-item">四川大学校级学生组织印刷品制作申请表</div></a>
+	<a href="/youth/uploads/up/default/-CB-C4-B4-A8-B4-F3-D1-A7-CD-C5-CE-AF-CE-EF-D7-CA-BD-E8-D3-C3-C9-EA-C7-EB-B1-ED.doc" class="list-group-item">
+		<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+		<div class="pane-item">四川大学团委重要物资借用申请表</div></a>
+	<a href="/youth/uploads/up/default/-D1-A7-CA-F5-BF-C6-BC-BC-A1-A2-B4-B4-D0-C2-B4-B4-D2-B5-C0-E0-BE-BA-C8-FC-BB-F1-BD-B1-D6-A4-C3-F7-C4-A3-B0-E51.docx" class="list-group-item">
+		<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+		<div class="pane-item">学术科技、创新创业类竞赛获奖证明模板</div></a>
+	<a href="/youth/uploads/up/default/changdizhanbanshenqing.doc" class="list-group-item">
+		<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+		<div class="pane-item">四川大学学生活动展板展架场地申请表附件</div></a>
+	<a href="/youth/uploads/up/default/-BD-CC-CA-D2-C9-EA-C7-EB-B1-ED.doc" class="list-group-item">
+		<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+		<div class="pane-item">四川大学教室申请表</div></a>
+	<a href="/youth/uploads/up/default/-C9-EA-C7-EB-B1-ED-A3-A82-C1-AA-A3-A9.doc" class="list-group-item">
+		<div style="display:inline;float:left;margin-right:10px;"><i class="fa fa-file-archive-o"></i></div>
+		<div class="pane-item">青春工坊使用申请表</div></a>
+</div>

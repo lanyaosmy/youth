@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /> 
+  <title>删除文章</title>
+  <!-- include jquery -->
+  <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+  <!-- include libraries BS3 -->
+  <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link href="http://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<style>
+.searchForm{
+	width:400px;
+	height:50px;
+	background:#f3f3f3;
+	margin-left:30px;
+	border-radius:3px;
+	float:right;
+}
+.searchInput{
+	margin-top:5px;
+	margin-left:6px;
+	width:97%;
+	height:80%;
+	border-radius:5px;
+	border:1px solid #ccc;
+	padding-left:13px;
+	font-size:15px;
+	color:#848484;
+}
+.search_btn{
+	float:right;
+	margin-left:15px;
+	margin-top:3px;
+	width:100px;
+	height:40px;
+	margin-right:20px;
+}
+
+.search_div label{
+	font-size:20px;
+	color:#525252;
+	padding-left:100px;
+	padding-top:20px;
+}
+
+.delete_btn{
+	float:right;
+	margin-right:120px;
+	margin-top:30px;
+}
+.back{
+	float:right;
+	margin-right:10px;
+	margin-top:30px;
+}
+.item:hover {
+	background:#ccc;
+	cursor:pointer;
+}
+.choosen{
+	background:#ff8a8a;
+}
+.choosen:hover{
+	background:#f53d3d;
+}
+</style>
+</head>
+<body onload="getList()">
+<div class="topTitle">
+	<img src="images/deleteBanner.jpg" style="width:100%;opacity:0.9;height:400px;position:absolute;z-index:1;"></img>
+</div>
+<div class="search_div" style="margin-top:370px;position:absolute;z-index:999;width:100%;">
+	<div style="width:100%;height:60px;">
+		<label>请选择要删除的文章：</label>
+		<button class="search_btn btn btn-default" style="float:right;" onclick="searchArticle()">搜索</button>
+		<form class="searchForm">
+			<input name="s" class="searchInput" id="s" placeholder="搜索 ....." autocomplete="off">
+		</form>
+		
+	</div>
+	<div style="width:100%;height:500px;">
+		<ul class="list-group" style="width:80%;margin:0 auto;margin-top:30px;">
+			<li id="li_1" class="item list-group-item" onclick="choose(this)">免费域名注册</li>
+			<li id="li_2" class="item list-group-item" onclick="choose(this)">免费 Window 空间托管</li>
+			<li id="li_3" class="item list-group-item" onclick="choose(this)">图像的数量</li>
+			<li id="li_4" class="item list-group-item" onclick="choose(this)">24*7 支持</li>
+			<li id="li_5" class="item list-group-item" onclick="choose(this)">每年更新成本</li>
+			<li id="li_6" class="item list-group-item" onclick="choose(this)">折扣优惠</li>
+		</ul>
+		<button class="delete_btn btn btn-danger" onclick="deleteItem()">确认删除</button>
+		<button type="button" class="back btn btn-primary" onclick="window.location.href='index.html'">回到首页</button>
+	</div>
+</div>
+
+
+</body>
+</html>
+
+<script>
+function getList(){
+	$.get("jsp/deleteGetList.jsp?word=null",function(result){
+		$(".list-group").html(result);
+	});
+}
+
+function choose(a){
+	if($(a).hasClass("choosen")){
+		$(a).removeClass("choosen");
+	}
+	else{
+		$(a).addClass("choosen")
+	}
+}
+function searchArticle(){
+	if($("#s").val()==""){
+		alert("请输入搜索内容！");
+	}
+	else{
+		$.get("jsp/deleteGetList.jsp?word="+encodeURI($("#s").val()),function(result){
+			$(".list-group").html(result);
+		});		
+	}
+}
+function deleteItem(){
+   $(".choosen").each(function(index,element){
+		$.get("jsp/deleteArticle.jsp?id="+$(element).attr("id"), function(result){
+			$(element).remove();
+		});
+		
+   });
+   alert("删除成功！将返回主页。");
+   window.location.href="index.html";
+}
+</script>
